@@ -17,7 +17,7 @@
 
 ①基础示例图（黑色背景，连续，渐变色1）
 
-![屏幕截图 2021-10-24 230646](https://user-images.githubusercontent.com/90943517/138601342-b33a647d-f008-4c74-824c-6ef562343a7f.jpg)
+![屏幕截图 2021-10-24 230646](https://user-images.githubusercontent.com/90943517/138601587-c054c07c-ecb9-4099-b4a2-c82cdd24ca74.jpg)
 
 ②与文字的结合（黑色背景，连续，渐变色2）
 
