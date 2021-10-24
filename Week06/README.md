@@ -21,7 +21,7 @@
 
 ②与文字的结合（黑色背景，连续，渐变色2）
 
-![屏幕截图 2021-10-24 231013](https://user-images.githubusercontent.com/90943517/138601376-7c13d3b4-8c1d-45e9-8240-47b767a203f7.jpg)
+![屏幕截图 2021-10-24 231013](https://user-images.githubusercontent.com/90943517/138601623-1d3a68da-95f4-4a0c-a15d-a9ce02e88c04.jpg)
 
 ③流（灰色背景1，离散，渐变色3，笔刷直径改变）
 
